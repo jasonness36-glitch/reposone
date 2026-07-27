@@ -75,10 +75,17 @@ Show only these three things. Don't wander into anything else.
 
 ## 5. The Close (1 minute) — then stop talking
 
+Lead with Option A. Only bring up Option B if they push back on the monthly price.
+
 **SAY:**
-"Setup is $___, and then it's $___ a month after that. I can have this live and working for you by Friday. Want me to start?"
+"Here's how this works: I build your website for free — zero cost to you. Then it's $197 a month, all-inclusive — that covers your website, your CRM, and everything I just showed you, and I run and maintain all of it for you. The only other cost is your domain, which you own — that's about $12 to $20 a year through wherever you register it — and I charge a one-time $15 fee to set it up and manage the DNS so you never have to touch it. I can have this live and working for you by Friday. Want me to start?"
 
 *(Stop talking. Let the silence sit. Whoever speaks next loses the negotiation — let them go first.)*
+
+*(Only if they push back on the $197/month, offer Option B:)*
+
+**SAY:**
+"If you'd rather own the site outright and pay less each month, there's another option: $500 one-time to build the website, then just $97 a month for the service fee. Same domain setup either way. Which one makes more sense for you?"
 
 ---
 
@@ -86,15 +93,15 @@ Show only these three things. Don't wander into anything else.
 
 **"It's too expensive."**
 **SAY:**
-"I get it — let's look at it differently. How much is one missed call worth to you if it turns into a job? *(Wait for an answer.)* This pays for itself the first time it saves you one call you would've lost. Everything after that is profit."
+"I get it — let's look at it differently. There's zero upfront cost on the Free Website plan. You're only ever paying $197 a month, and that one payment covers your website, your CRM, and everything I just showed you — no other bills, no other vendor. How much is one missed call worth to you if it turns into a job? *(Wait for an answer.)* This pays for itself the first time it saves you one call you would've lost. Everything after that is profit. And if you'd rather own the site outright and pay less monthly, we can also do $500 down and $97 a month instead."
 
 **"I'll think about it."**
 **SAY:**
-"Totally fair. Can I ask what specifically you want to think through — the price, the timing, or whether it'll work for your business? *(Listen, then answer that one thing directly.)*"
+"Totally fair. Can I ask what specifically you want to think through — the $197 a month, the timing, or whether it'll work for your business? *(Listen, then answer that one thing directly.)* If it's the monthly number, remember the Free Website plan has zero upfront cost — there's no risk in starting."
 
 **"I already have a website."**
 **SAY:**
-"That's great — a website's part of this too. But a website doesn't call a customer back when you miss them, doesn't ask for reviews automatically, and doesn't let people book themselves. This works alongside what you already have — it just makes sure no lead falls through the cracks."
+"That's great — you can keep it. The real gap isn't the website, it's that it doesn't call a customer back when you miss them, doesn't ask for reviews automatically, and doesn't let people book themselves. That's what the $197 a month actually covers — the CRM and automations running behind the scenes. If you ever want a new site built into it, that's free on this plan. If not, we just plug the automations in alongside what you've already got, and you'd still only pay the $500 one-time plus $97 a month on the Own It plan for that."
 
 ---
 
